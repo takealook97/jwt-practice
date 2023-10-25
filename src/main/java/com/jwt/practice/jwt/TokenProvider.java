@@ -1,4 +1,4 @@
-package com.jwt.practice.config.jwt;
+package com.jwt.practice.jwt;
 
 import java.security.Key;
 import java.util.Arrays;

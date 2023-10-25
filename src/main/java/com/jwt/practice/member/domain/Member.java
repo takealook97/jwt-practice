@@ -13,7 +13,7 @@ import javax.persistence.ManyToMany;
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
 
-import net.minidev.json.annotate.JsonIgnore;
+// import net.minidev.json.annotate.JsonIgnore;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
